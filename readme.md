@@ -1,4 +1,4 @@
 # ansh unix workbench
 ## assignment ##
-* this file was run at: $(shell date +%Y-%m-%d:%H:%M:%S) *
-* there were $(shell wc -l < guessinggame.sh) lines in program *
+* this file was run at: 2020-10-19: 10:39:31
+* there were 27 lines in program *
